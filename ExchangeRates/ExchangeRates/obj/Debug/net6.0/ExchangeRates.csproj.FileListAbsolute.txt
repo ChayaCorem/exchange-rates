@@ -52,3 +52,33 @@ D:\משתמש לא למחוק\Documents\בית\חיה\exchnge-rates\ExchangeRate
 D:\משתמש לא למחוק\Documents\בית\חיה\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.pdb
 D:\משתמש לא למחוק\Documents\בית\חיה\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.genruntimeconfig.cache
 D:\משתמש לא למחוק\Documents\בית\חיה\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ref\ExchangeRates.dll
+<<<<<<< HEAD
+=======
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.csproj.AssemblyReference.cache
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.AssemblyInfoInputs.cache
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.AssemblyInfo.cs
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.dll
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\refint\ExchangeRates.dll
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.pdb
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\ExchangeRates.exe
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\ExchangeRates.deps.json
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\ExchangeRates.runtimeconfig.json
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\ExchangeRates.dll
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\ExchangeRates.pdb
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\scopedcss\bundle\ExchangeRates.styles.css
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.csproj.CopyComplete
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ExchangeRates.genruntimeconfig.cache
+C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\obj\Debug\net6.0\ref\ExchangeRates.dll
+>>>>>>> 401a0f8b0eac7879583d1f304b24f26ae3d32cee

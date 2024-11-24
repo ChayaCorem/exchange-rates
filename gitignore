@@ -1,0 +1,18 @@
+# Ignore Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.cache
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore binaries
+*.dll
+*.exe
+*.pdb
+
+# Ignore other temporary files
+*.log
+*.tmp

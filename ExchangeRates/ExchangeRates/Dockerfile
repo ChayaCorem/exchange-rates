@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# שלב הבנייה
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
@@ -18,3 +19,6 @@ COPY --from= build /out .
 # פתח את הפורט שבו ה-Backend יאזין
 EXPOSE 7009
 ENTRYPOINT["dotnet", "ExchangeRates.dll"]
+=======
+﻿
+>>>>>>> 401a0f8b0eac7879583d1f304b24f26ae3d32cee

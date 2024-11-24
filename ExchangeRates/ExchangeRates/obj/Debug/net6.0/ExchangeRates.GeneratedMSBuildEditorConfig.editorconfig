@@ -8,9 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExchangeRates
 build_property.RootNamespace = ExchangeRates
+<<<<<<< HEAD
 build_property.ProjectDir = D:\משתמש לא למחוק\Documents\בית\חיה\exchnge-rates\ExchangeRates\ExchangeRates\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\משתמש לא למחוק\Documents\בית\חיה\exchnge-rates\ExchangeRates\ExchangeRates
+=======
+build_property.ProjectDir = C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\משתמש\exchnge-rates\ExchangeRates\ExchangeRates
+>>>>>>> 401a0f8b0eac7879583d1f304b24f26ae3d32cee
 build_property._RazorSourceGeneratorDebug = 

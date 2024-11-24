@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "BxB4xy9kqBO4fJ/CuPY9GqV08xKjtYl8+W68lBfvmKHd+PwOnggqlLm/vyFQITQ2K3S1N1PmyPrMpuudLl12yQ==",
   "success": true,
   "projectFilePath": "D:\\משתמש לא למחוק\\Documents\\בית\\חיה\\exchnge-rates\\ExchangeRates\\ExchangeRates\\ExchangeRates.csproj",
+=======
+  "dgSpecHash": "Iu9P7p1HUrmh8nflHNdBdwPc4debiQ/QujQzFBP4flzJnfiZrgXDyTqzK65Dmq2y3TuPBsQLLJ4RB10LpjDZvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\משתמש\\exchnge-rates\\ExchangeRates\\ExchangeRates\\ExchangeRates.csproj",
+>>>>>>> 401a0f8b0eac7879583d1f304b24f26ae3d32cee
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
